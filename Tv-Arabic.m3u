@@ -1,45 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="الإخبارية",الجزيرة الإخبارية
+#EXTINF:-1,الجزيرة الإخبارية
 https://akamaized.net
 
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="الإخبارية",العربية
-https://ercdn.net
+#EXTINF:-1,الميادين
+http://ercdn.net
 
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="الإخبارية",الحدث
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="الإخبارية",سكاي نيوز عربية
-https://akamaized.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="الإخبارية",TRT عربي
-https://mptv.online
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="ترفيه ودراما",MBC 1
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="ترفيه ودراما",MBC مصر
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="أفلام",MBC 2
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="ترفيه ودراما",DMC مصر
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="ترفيه ودراما",CBC مصر
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="قنوات عامة",السعودية الأولى
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="قنوات عامة",تلفزيون دبي
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="أفلام",روتانا سينما
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="إسلامية",قناة القرآن الكريم (مكة)
-https://ercdn.net
-
-#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="إسلامية",قناة السنة النبوية (المدينة)
-https://ercdn.net
+#EXTINF:-1,تلفزيون قطر
+https://qctv.net
